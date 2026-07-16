@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2026-07-16 15:50:24",
+        "title": "Exams finished, now coding!",
+        "content": "Finally, 4th semester exams are over, Now focusing on Learning Python and Machine learning",
+        "tags": [
+            "coding",
+            "study"
+        ]
+    },
+    {
+        "id": 2,
+        "timestamp": "2026-07-16 16:02:53",
+        "title": "Exams finished, Now coding",
+        "content": "finally, 4th semester exams are over. Now focusing on python and machine learning",
+        "tags": [
+            "coding",
+            "study"
+        ]
+    },
+    {
+        "id": 3,
+        "timestamp": "2026-07-16 16:09:13",
+        "title": "AlgoHub Tasks",
+        "content": "Working on my Week 3 Task",
+        "tags": [
+            "tasks",
+            "coding"
+        ]
+    },
+    {
+        "id": 4,
+        "timestamp": "2026-07-16 16:12:35",
+        "title": "AI Study",
+        "content": "Working on my python project today",
+        "tags": [
+            "python",
+            "ai"
+        ]
+    }
+]

@@ -1,0 +1,5 @@
+# AlgoHub Internship - Week 3
+# This project runs entirely on Python's built-in libraries (json, os, datetime).
+# No external dependencies or pip packages are required to run this program.
+
+python >= 3.10
