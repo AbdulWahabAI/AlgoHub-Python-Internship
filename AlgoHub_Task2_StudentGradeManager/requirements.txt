@@ -1,0 +1,7 @@
+# AlgoHub Week 2 Task Dependencies
+
+# Testing framework required for verification
+pytest==8.2.2
+
+# Code quality and syntax formatting check
+flake8==7.1.0
