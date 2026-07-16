@@ -6,8 +6,9 @@ This is a simple terminal diary program built with Python. It lets you write, vi
 
 ## Deliverables & Verification
 
-- Demo Video: [Click Here to Watch the Walkthrough](PASTE_YOUR_VIDEO_LINK_HERE)
-- LinkedIn Post: [Click Here to View the Project Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)
+- Demo Video: [Click Here to Watch the Walkthrough](https://drive.google.com/file/d/1wqZU46VymMrwqZb0sVEYigCbymzmjRp0/view?usp=drivesdk
+)
+- LinkedIn Post: [Click Here to View the Project Post](https://www.linkedin.com/posts/abdul-wahab-1077a3291_python-programming-coding-ugcPost-7483495616963207168-YsT8/?utm_source=share&utm_medium=member_android&rcm=ACoAAEbGItcBzdgiKeoEnOEahLBrZMgjtIO1ItY)
 
 ---
 
