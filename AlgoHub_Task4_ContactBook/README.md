@@ -25,9 +25,12 @@ AlgoHub_Task4_ContactBook/
         python contact_book.py
 
 ## Deliverables & Links
-- **GitHub Repository:** [View Repository](https://github.com/AbdulWahabAI/AlgoHub-Python-Internship/tree/main/AlgoHub_Task4_ContactBook)
-- **Live Demo Video:** [Watch Demo Video](https://drive.google.com/file/d/1Nf10ouHGazi9XK1ryj2I7Sn-y3BAMD94/view?usp=drivesdk)
-- **LinkedIn Post:** [View LinkedIn Post](https://www.linkedin.com/posts/abdul-wahab-1077a3291_python-pythonprogramming-datastructures-ugcPost-7486730060876656640-5_UB/)
+
+https://github.com/AbdulWahabAI/AlgoHub-Python-Internship/tree/main/AlgoHub_Task4_ContactBook
+
+https://drive.google.com/file/d/1Nf10ouHGazi9XK1ryj2I7Sn-y3BAMD94/view?usp=drivesdk
+
+https://www.linkedin.com/posts/abdul-wahab-1077a3291_python-pythonprogramming-datastructures-ugcPost-7486730060876656640-5_UB/
 
 ## Author
 Name: Abdul Wahab
