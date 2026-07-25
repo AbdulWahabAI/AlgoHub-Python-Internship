@@ -1,0 +1,7 @@
+# AlgoHub Python Programming Internship - Week 4 Project Requirements
+# This project is built using Python Standard Library modules only 
+# (collections, heapq, bisect) as per the Data Structures & Algorithms roadmap.[span_10](start_span)[span_10](end_span)
+
+# Optional standard package placeholders (for compliance with submission standards):
+setuptools>=65.0.0
+pip>=22.0.0
