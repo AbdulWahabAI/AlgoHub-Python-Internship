@@ -17,6 +17,6 @@ library_management/
 python main.py
 
 Links:
-​GitHub Repository: https://github.com/AbdulWahabAI/AlgoHub-Python-Internship/tree/main/AlgoHub_Task6_Library_Management  
-​Live Demo Video: https://drive.google.com/file/d/1MjzbYFnUXTTIF5squtRYoJ4VuU3LqDM0/view?usp=drivesdk  
-​LinkedIn Post: https://www.linkedin.com/posts/abdul-wahab-1077a3291_python-sqlite-backenddevelopment-ugcPost-7491098509442441216-I6aY/?utm_source=share&utm_medium=member_android&rcm=ACoAAEbGItcBzdgiKeoEnOEahLBrZMgjtIO1ItY
+* [GitHub Repository](https://github.com/AbdulWahabAI/AlgoHub-Python-Internship/tree/main/AlgoHub_Task6_Library_Management)
+* [Live Demo Video](https://drive.google.com/file/d/1MjzbYFnUXTTIF5squtRYoJ4VuU3LqDM0/view?usp=drivesdk)
+* [LinkedIn Post](https://www.linkedin.com/posts/abdul-wahab-1077a3291_python-sqlite-backenddevelopment-ugcPost-7491098509442441216-I6aY/)
