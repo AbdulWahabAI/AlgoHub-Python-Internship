@@ -1,0 +1,1 @@
+# No external packages strictly required for basic sqlite3 implementation
