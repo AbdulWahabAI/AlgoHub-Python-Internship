@@ -48,4 +48,4 @@ uvicorn main:app --reload
 📌 Project Deliverables
 ​GitHub Repository Link: [https://github.com/AbdulWahabAI/AlgoHub-Python-Internship/tree/main/AlgoHub-Task7-TaskManagerAPI%20T]
 ​Live Demo Video Link: [https://drive.google.com/file/d/1SetG6Ci0zs2pc2h8Cv5El7lPPh2gWis5/view?usp=drivesdk]
-​Live Deployment Link: [https://www.linkedin.com/posts/abdul-wahab-1077a3291_fastapi-python-backenddevelopment-ugcPost-7493278066476142592-8Mhy/?utm_source=share&utm_medium=member_android&rcm=ACoAAEbGItcBzdgiKeoEnOEahLBrZMgjtIO1ItY]
+​Linkdin Post Link: [https://www.linkedin.com/posts/abdul-wahab-1077a3291_fastapi-python-backenddevelopment-ugcPost-7493278066476142592-8Mhy/?utm_source=share&utm_medium=member_android&rcm=ACoAAEbGItcBzdgiKeoEnOEahLBrZMgjtIO1ItY]
