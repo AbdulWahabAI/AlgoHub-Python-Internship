@@ -39,7 +39,7 @@ uvicorn backend.main:app --reload
  streamlit run frontend/app.py
 
  ## Project Submission Links
-​LinkedIn Project Post: https://www.linkedin.com/posts/abdul-wahab-1077a3291_python-fastapi-streamlit-ugcPost-7496619399047618560-tgCk/?utm_source=share&utm_medium=member_android&rcm=ACoAAEbGItcBzdgiKeoEnOEahLBrZMgjtIO1ItY
-​Demo Video: https://drive.google.com/file/d/1dQagaf1Uk9Dw5t7_upTONMpOEAH2ZxKl/view?usp=drivesdk
+* **LinkedIn Project Post:** [Click Here to View Post](https://www.linkedin.com/posts/abdul-wahab-1077a3291_python-fastapi-streamlit-ugcPost-7496619399047618560-tgCk/?utm_source=share&utm_medium=member_android&rcm=ACoAAEbGitcBzdgikeoEnOEahLBrZMgjtI0ItY)
+* **Demo Video:** [Click Here to Watch Video](https://drive.google.com/file/d/1dQagaf1Uk9Dw5t7_uPTONMpOEAH2ZxK1/view?usp=drivesdk)
 
 ​Developed by Abdul Wahab | AlgoHub Python Programming Intern
